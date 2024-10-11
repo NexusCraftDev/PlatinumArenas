@@ -1,4 +1,4 @@
-# PlatinumArenas
+# PlatinumArenas Continued
 
 An arena management plugin that supports arenas of any size. Even arenas of 200 million blocks are no problem!
 
